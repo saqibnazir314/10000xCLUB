@@ -197,7 +197,7 @@ function App() {
   return (
     <s.Screen>
       <s.Container
-        flex={1}
+        flex={0}
         ai={"center"}
         style={{ padding: 24, backgroundColor: "var(--background)" }}
         image={CONFIG.SHOW_BACKGROUND ? "/config/images/bg.png" : null}
@@ -232,7 +232,7 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            2.&nbsp; Get the Metamask Chrome Extension.
+            2.&nbsp; Get the Metamask Chrome Extension if Don't have already.
           </s.TextDescription>
           <s.TextDescription
             style={{
@@ -240,7 +240,7 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            3.&nbsp; Select # to mint.
+            3.&nbsp; Click on the Connect Now button and select the # of Passes To Mint.
           </s.TextDescription>
           <s.TextDescription
             style={{
@@ -431,7 +431,7 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            1.&nbsp; You must have a Metamask Wallet. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            1.&nbsp; You must have a Metamask Wallet. If not you need to create one. 
 
           </s.TextDescription>
           <s.TextDescription
@@ -440,7 +440,7 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            2.&nbsp; Get the Metamask Mobile App. 
+            2.&nbsp; Get the Metamask Mobile App if you don't have it already.
           </s.TextDescription>
           <s.TextDescription
             style={{
@@ -448,7 +448,8 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            3.&nbsp; Press "Open in MetaMask" button. 
+            3.&nbsp; Open and login to your Meta Mask account and open Browser in the Metamask App.
+
           </s.TextDescription>
           <s.TextDescription
             style={{
@@ -456,7 +457,7 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            4.&nbsp; Select # to mint 
+            4.&nbsp; Open the url and Click on Connect Now button and then select the number of Nfts you want to mint.
           </s.TextDescription>
           <s.TextDescription
             style={{
