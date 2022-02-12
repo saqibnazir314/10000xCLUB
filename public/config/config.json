@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0x77d9ef13830c2aCE4EaF30F01B5a59B80B3bd6b9",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xb89b95c3eafa38c922196d876a78beb12f56b54b",
+  "NETWORK": {
+    "NAME": "Rinkbey",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "10,000x CLUB",
+  "SYMBOL": "10000x",
+  "MAX_SUPPLY": 10000,
+  "MAX_Presale": 500,
+  "WEI_COST": 100000000000000000,
+  "WEI_2":150000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
