@@ -1,4 +1,4 @@
-# Welcome to 10,000xCLUB 👄
+# Welcome to 10,000xCLUB
 
 ![](https://github.com/saqibnazir314/10000xCLUB/blob/main/logo.gif)
 
