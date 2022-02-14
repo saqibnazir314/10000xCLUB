@@ -307,7 +307,7 @@ function App() {
                 <s.TextTitle
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                   {CONFIG.SYMBOL} costs {CONFIG.DISPLAY_COST}{" "}
+                  Each {CONFIG.SYMBOL} Club Pass costs {CONFIG.DISPLAY_COST}{" "}
                   {CONFIG.NETWORK.SYMBOL}.
                 </s.TextTitle>
                 <s.SpacerXSmall />
