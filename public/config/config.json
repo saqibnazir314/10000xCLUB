@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x77d9ef13830c2aCE4EaF30F01B5a59B80B3bd6b9",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xb89b95c3eafa38c922196d876a78beb12f56b54b",
+  "CONTRACT_ADDRESS": "0x6a877eec64da9578910Df4Fe082D9E33E707f294",
+  "SCAN_LINK": "https://etherscan.io/address/0x6a877eec64da9578910df4fe082d9e33e707f294",
   "NETWORK": {
-    "NAME": "Rinkbey",
+    "NAME": "Ethereum",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "10,000x CLUB",
   "SYMBOL": "10000x",
