@@ -215,7 +215,7 @@ function App() {
                 color: "var(--accent-text)",
             }}
           >
-            Minting Instructions for Desktop Users
+            Mobile Minting
           </s.TextDescription>
           <s.TextDescription
             style={{
@@ -223,7 +223,7 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            1.&nbsp; You Must Have Metamask Installed on your browser. 
+            1.&nbsp; You must have a metamask wallet. 
 
           </s.TextDescription>
           <s.TextDescription
@@ -232,7 +232,7 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            2.&nbsp; Get the Metamask Chrome Extension if Don't have already.
+            2.&nbsp; Open the Metamask Mobile app.
           </s.TextDescription>
           <s.TextDescription
             style={{
@@ -240,7 +240,7 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            3.&nbsp; Click on the Connect Now button and select the # of Passes To Mint.
+            3.&nbsp; Login to your Metamask App, Tap the 3 vertical bars in the top left, tap browser.
           </s.TextDescription>
           <s.TextDescription
             style={{
@@ -248,7 +248,15 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            4.&nbsp;Mint & pay via wallet. (Be sure to accept or sign transaction if a button appears)
+            4.&nbsp;Paste the url to this page. Tap connect wallet and then select the number of nfts you want to mint.
+          </s.TextDescription>
+ <s.TextDescription
+            style={{
+              textAlign: "left",
+              color: "var(--primary-text)",
+            }}
+          >
+            4.&nbsp;Mint & Pay via wallet. (Be sure to accept or sign transaction if a button appears)
           </s.TextDescription>
           </s.Container>
           <s.SpacerLarge />
@@ -423,7 +431,7 @@ function App() {
                 color: "var(--accent-text)",
             }}
           >
-            Minting Instructions For Mobile Users
+            PC Minting
           </s.TextDescription>
           <s.TextDescription
             style={{
@@ -431,7 +439,7 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            1.&nbsp; You must have a Metamask Wallet. If not you need to create one. 
+            1.&nbsp;  Install Metamask. You Can Get the metamask chrome extension. 
 
           </s.TextDescription>
           <s.TextDescription
@@ -440,7 +448,7 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            2.&nbsp; Get the Metamask Mobile App if you don't have it already.
+            2.&nbsp; Click on the connect Now button and select # of passes to mint.
           </s.TextDescription>
           <s.TextDescription
             style={{
@@ -448,27 +456,9 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            3.&nbsp; Open and login to your Meta Mask account and open Browser in the Metamask App.
+            3.&nbsp;  Mint & pay via wallet. (Be sure to accept or sign transaction if a button appears)
 
           </s.TextDescription>
-          <s.TextDescription
-            style={{
-              textAlign: "Left",
-              color: "var(--primary-text)",
-            }}
-          >
-            4.&nbsp; Open the url and Click on Connect Now button and then select the number of Nfts you want to mint.
-          </s.TextDescription>
-          <s.TextDescription
-            style={{
-              textAlign: "Left",
-              color: "var(--primary-text)",
-            }}
-          >
-            5.&nbsp; Mint & pay via wallet. (Be sure to accept or sign transaction if a button appears)
-
-          </s.TextDescription>
-
           </s.Container>
         </ResponsiveWrapper>
         <s.SpacerMedium />
