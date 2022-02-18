@@ -315,7 +315,7 @@ function App() {
                 <s.TextTitle
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  Each {CONFIG.SYMBOL} Club Pass costs {CONFIG.DISPLAY_COST} For First 500 and Remaining Mints @ .15 Eth {" "}
+                  Each {CONFIG.SYMBOL} Pass costs {CONFIG.DISPLAY_COST} For First 500 and Remaining Mints @ .15 {" "}
                   {CONFIG.NETWORK.SYMBOL}.
                 </s.TextTitle>
                 <s.SpacerXSmall />
