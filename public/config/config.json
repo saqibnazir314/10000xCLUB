@@ -12,7 +12,7 @@
   "MAX_Presale": 500,
   "WEI_COST": 100000000000000000,
   "WEI_2":150000000000000000,
-  "DISPLAY_COST": 0.1 ETH FOR FIRST 500 AND THEN 0.15 ETH,
+  "DISPLAY_COST": 0.1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
